@@ -1,5 +1,29 @@
-### Hi there 👋
+### Hi there im Amirhossein arabahmadi👋
+___
+ ![](https://komarev.com/ghpvc/?username=amir0026a&color=red)
+ 
+ > Click on the name of the social network you want to contact me 👇
+-  [Telegram](http://t.me/amir0026a)
+-  [Instagram](http://instagram.com/amir0026_a)
+-  [Discord](http://discord.gg/T4JytppwT8)
 
+### Stay in touch
+___
+
+<img align="left" width="140" src="https://s21.picofile.com/file/8442878734/Amir.png">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Amirhossein arabahmadi
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am variable
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And I have started a new life
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://hpv.im/horizontal-line-divider-png-transparent.png">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In terms of technology limitations are meaningless to me
+<br>
+
+
+ 
 <!--
 **amir0026a/amir0026a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +39,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Github Stats
+___
+
 <a href="https://github.com/amir0026a">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amir0026a&show_icons=true&count_private=true&include_all_commits=true" /></a>
 
+### Most used Language
 ___
 
 <a href="https://github.com/amir0026a">
