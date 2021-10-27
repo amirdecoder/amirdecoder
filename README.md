@@ -2,12 +2,15 @@
 ___
  ![](https://komarev.com/ghpvc/?username=amir0026a&color=red)
  
+ ### Stay in touch
+ ___
  > Click on the name of the social network you want to contact me 👇
 -  [Telegram](http://t.me/amir0026a)
 -  [Instagram](http://instagram.com/amir0026_a)
+-  [Whatsapp](http://wa.me/message/D3VOL2BRUSPIE1)
 -  [Discord](http://discord.gg/T4JytppwT8)
 
-### Stay in touch
+### Short explanation
 ___
 
 <img align="left" width="140" src="https://s21.picofile.com/file/8442878734/Amir.png">
