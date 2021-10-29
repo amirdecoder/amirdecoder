@@ -54,3 +54,10 @@ ___
 <a href="https://github.com/amir0026a">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir0026a" />
 </a>
+
+### Most used Language The second style
+___
+
+<a href="https://github.com/amir0026a">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir0026a&layout=compact&hide=html" alt="mxschmitt" /></a>
+
