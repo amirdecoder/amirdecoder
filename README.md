@@ -61,4 +61,16 @@ ___
 
 <a href="https://github.com/amir0026a">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir0026a&layout=compact&hide=html" alt="mxschmitt" /></a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Programming for me is like a restaurant where I cook myself and I enjoy the taste of food
+___
+
+<img align="center" longdesc="https://github.com/amir0026a" src="https://s21.picofile.com/file/8443133634/programming_banner.png"></img>
 
