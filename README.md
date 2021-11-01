@@ -68,9 +68,11 @@ ___
 <br>
 <br>
 <br>
+<br>
 
 ### Programming for me is like a restaurant where I cook myself and I enjoy the taste of food
 ___
 
-<img align="center" longdesc="https://github.com/amir0026a" src="https://s21.picofile.com/file/8443133634/programming_banner.png"></img>
+<a href="https://github.com/amir0026a">
+<img align="center" src="https://s21.picofile.com/file/8443133634/programming_banner.png"></a>
 
