@@ -1,12 +1,12 @@
 ### Hi there im Amirhossein arabahmadi👋
 ___
- ![](https://komarev.com/ghpvc/?username=amir0026a&color=red)
+ ![](https://komarev.com/ghpvc/?username=amirdecoder&color=red)
  
  ### Stay in touch
  ___
  > Click on the name of the social network you want to contact me 👇
--  [Telegram](http://t.me/amir0026a)
--  [Instagram](http://instagram.com/amir0026_a)
+-  [Telegram](http://t.me/amirdecoder)
+-  [Instagram](http://instagram.com/amirdecoder)
 -  [Whatsapp](http://wa.me/message/D3VOL2BRUSPIE1)
 -  [Discord](http://discord.gg/T4JytppwT8)
 
@@ -30,7 +30,7 @@ ___
 
  
 <!--
-**amir0026a/amir0026a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**amirdecoder/amirdecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -47,21 +47,21 @@ Here are some ideas to get you started:
 ### Github Stats
 ___
 
-<a href="https://github.com/amir0026a">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amir0026a&show_icons=true&count_private=true&include_all_commits=true" /></a>
+<a href="https://github.com/amirdecoder">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirdecoder&show_icons=true&count_private=true&include_all_commits=true" /></a>
 
 ### Most used Language
 ___
 
-<a href="https://github.com/amir0026a">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir0026a" />
+<a href="https://github.com/amirdecoder">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirdecoder" />
 </a>
 
 ### Most used Language The second style
 ___
 
-<a href="https://github.com/amir0026a">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir0026a&layout=compact&hide=html" alt="mxschmitt" /></a>
+<a href="https://github.com/amirdecoder">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirdecoder&layout=compact&hide=html" alt="mxschmitt" /></a>
 <br>
 <br>
 <br>
@@ -74,6 +74,6 @@ ___
 ### Programming for me is like a restaurant where I cook myself and I enjoy the taste of food
 ___
 
-<a href="https://github.com/amir0026a">
+<a href="https://github.com/amirdecoder">
 <img align="center" src="https://s21.picofile.com/file/8443133634/programming_banner.png"></a>
 
