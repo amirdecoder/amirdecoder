@@ -76,4 +76,7 @@ ___
 
 <a href="https://github.com/amirdecoder">
 <img align="center" src="https://s21.picofile.com/file/8443133634/programming_banner.png"></a>
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirdecoder&" alt="omiragk" /></p>
 
