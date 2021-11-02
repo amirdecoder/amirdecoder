@@ -2,6 +2,11 @@
 ___
  ![](https://komarev.com/ghpvc/?username=amirdecoder&color=red)
  
+ <br>
+ 
+ <a href="https://github.com/amir0026a">
+ <img align="center" width="4040" src="https://github-profile-trophy.vercel.app/?username=amirdecoder&margin-w=25"></a>
+ 
  ### Stay in touch
  ___
  > Click on the name of the social network you want to contact me 👇
