@@ -51,6 +51,8 @@ ___
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amirdecoder&show_icons=true&count_private=true&include_all_commits=true" /></a>
 
 <br>
+<br>
+<br>
 
 <a href="https://github.com/amirdecoder">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirdecoder&" alt="omiragk" /></a>
