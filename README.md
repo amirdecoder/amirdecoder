@@ -1,8 +1,8 @@
 ### Hi there im Amirhossein arabahmadi👋
 ___
 <a href="https://github.com/amirdecoder">
-<img align="left" width="150" src="https://komarev.com/ghpvc/?username=amirdecoder&color=red">
- <img align="right" width="150" src="https://img.shields.io/static/v1?label=amirdecoder&message=%E2%9D%A4&logo=GitHub&color=ff69b4">
+<img align="left" width="150" src="https://komarev.com/ghpvc/?username=amirdecoder&color=ff0000">
+ <img align="right" width="150" src="https://img.shields.io/static/v1?label=amirdecoder&message=%E2%9D%A4&logo=GitHub&color=ff0000">
  </a>
  
  <br>
