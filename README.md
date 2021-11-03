@@ -1,18 +1,18 @@
 ### Hi there im Amirhossein arabahmadi👋
 ___
 <a href="https://github.com/amirdecoder">
-<img align="left" width="160" src="https://komarev.com/ghpvc/?username=amirdecoder&color=ff0000"></a>
+<img align="left"  src="https://komarev.com/ghpvc/?username=amirdecoder&color=ff0000"></a>
  <a href="https://github.com/amirdecoder">
- <img align="left" width="173" src="https://img.shields.io/static/v1?label=amirdecoder&message=%E2%9D%A4&logo=GitHub&color=ff0000"></a>
+ <img align="left"  src="https://img.shields.io/static/v1?label=amirdecoder&message=%E2%9D%A4&logo=GitHub&color=ff0000"></a>
  
  <a href="https://github.com/amirdecoder">
- <img align="right" width="150" src="https://img.shields.io/static/v1?label=Instagram&message=%E2%9D%A4&logo=instagram&color=ff0077"></a>
+ <img align="right"  src="https://img.shields.io/static/v1?label=Instagram&message=%E2%9D%A4&logo=instagram&color=ff0077"></a>
  
    <a href="https://t.me/amirdecoder">
-  <img align="right" width="150" src="https://img.shields.io/static/v1?label=Telegram&message=%E2%9D%A4&logo=telegram&color=blue"></a>
+  <img align="right"  src="https://img.shields.io/static/v1?label=Telegram&message=%E2%9D%A4&logo=telegram&color=blue"></a>
   
    <a href="https://github.com/amirdecoder">
- <img align="right" width="150" src="https://img.shields.io/static/v1?label=Whatsapp&message=%E2%9D%A4&logo=Whatsapp&color=green"></a>
+ <img align="right"  src="https://img.shields.io/static/v1?label=Whatsapp&message=%E2%9D%A4&logo=Whatsapp&color=green"></a>
  
  <br>
  <br>
