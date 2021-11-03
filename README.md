@@ -1,7 +1,3 @@
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-
 ### Hi there im Amirhossein arabahmadi👋
 ___
 <a href="https://github.com/amirdecoder">
