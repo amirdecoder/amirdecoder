@@ -9,7 +9,7 @@ ___
  <br>
  
  <a href="https://github.com/amirdecoder">
- <img align="center" width="1050" src="https://github-profile-trophy.vercel.app/?username=amirdecoder&margin-w=15"></a>
+ <img align="center" width="540" src="https://github-profile-trophy.vercel.app/?username=amirdecoder&column=3&margin-w=15&margin-h=15"></a>
  
  <br>
 
