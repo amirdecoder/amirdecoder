@@ -1,11 +1,16 @@
 ### Hi there im Amirhossein arabahmadi👋
 ___
- ![](https://komarev.com/ghpvc/?username=amirdecoder&color=red)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img align="center" width="280" src="https://komarev.com/ghpvc/?username=amirdecoder&color=red">
  
  <br>
  
  <a href="https://github.com/amir0026a">
- <img align="center" width="4040" src="https://github-profile-trophy.vercel.app/?username=amirdecoder&margin-w=25"></a>
+ <img align="center" width="950" src="https://github-profile-trophy.vercel.app/?username=amirdecoder&margin-w=55"></a>
+ 
+ <br>
+ <br>
+ <br>
  
  ### Stay in touch
  ___
@@ -86,5 +91,5 @@ ___
 ___
 
 <a href="https://github.com/amirdecoder">
-<img align="center" src="https://s21.picofile.com/file/8443133634/programming_banner.png"></a>
+<img align="center" width="500" src="https://s21.picofile.com/file/8443133634/programming_banner.png"></a>
 
