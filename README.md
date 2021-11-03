@@ -2,6 +2,7 @@
 ___
 <a href="https://github.com/amirdecoder">
 <img align="left"  src="https://komarev.com/ghpvc/?username=amirdecoder&color=ff0000"></a>
+<br>
  <a href="https://github.com/amirdecoder">
  <img align="left"  src="https://img.shields.io/static/v1?label=amirdecoder&message=%E2%9D%A4&logo=GitHub&color=ff0000"></a>
  
