@@ -6,7 +6,7 @@ ___
  <br>
  
  <a href="https://github.com/amir0026a">
- <img align="center" width="950" src="https://github-profile-trophy.vercel.app/?username=amirdecoder&margin-w=55"></a>
+ <img align="center" width="1050" src="https://github-profile-trophy.vercel.app/?username=amirdecoder&margin-w=15"></a>
  
  <br>
  <br>
