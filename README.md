@@ -1,6 +1,6 @@
 ### Hi there im Amirhossein arabahmadi👋
 ___
-<a href="https://github.com/amir0026a">
+<a href="https://github.com/amirdecoder">
 <img align="left" width="150" src="https://komarev.com/ghpvc/?username=amirdecoder&color=red">
  <img align="right" width="150" src="https://img.shields.io/static/v1?label=amirdecoder&message=%E2%9D%A4&logo=GitHub&color=ff69b4">
  </a>
@@ -8,7 +8,7 @@ ___
  <br>
  <br>
  
- <a href="https://github.com/amir0026a">
+ <a href="https://github.com/amirdecoder">
  <img align="center" width="1050" src="https://github-profile-trophy.vercel.app/?username=amirdecoder&margin-w=15"></a>
  
  <br>
@@ -24,7 +24,7 @@ ___
 ### Short explanation
 ___
 
-<a href="https://github.com/amir0026a">
+<a href="https://github.com/amirdecoder">
 <img align="left" width="140" alt="amirhossein arabahmadi" src="https://s20.picofile.com/file/8443022400/Amir2.png"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Amirhossein arabahmadi
 <br>
