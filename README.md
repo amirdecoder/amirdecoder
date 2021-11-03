@@ -1,9 +1,9 @@
 ### Hi there im Amirhossein arabahmadi👋
 ___
 <a href="https://github.com/amirdecoder">
-<img align="left"  src="https://komarev.com/ghpvc/?username=amirdecoder&color=ff0000"></a>
+ <img align="left" width="150" src="https://komarev.com/ghpvc/?username=amirdecoder&color=ff0000"></a>
  <a href="https://github.com/amirdecoder">
- <img align="left"  src="https://img.shields.io/static/v1?label=amirdecoder&message=%E2%9D%A4&logo=GitHub&color=ff0000"></a>
+  <img align="left" width="155" src="https://img.shields.io/static/v1?label=amirdecoder&message=%E2%9D%A4&logo=GitHub&color=ff0000"></a>
  
  <br>
  <br>
