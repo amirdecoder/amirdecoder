@@ -2,18 +2,8 @@
 ___
 <a href="https://github.com/amirdecoder">
 <img align="left"  src="https://komarev.com/ghpvc/?username=amirdecoder&color=ff0000"></a>
-<br>
  <a href="https://github.com/amirdecoder">
  <img align="left"  src="https://img.shields.io/static/v1?label=amirdecoder&message=%E2%9D%A4&logo=GitHub&color=ff0000"></a>
- </br>
- <a href="https://github.com/amirdecoder">
- <img align="right"  src="https://img.shields.io/static/v1?label=Instagram&message=%E2%9D%A4&logo=instagram&color=ff0077"></a>
- <br>
-   <a href="https://t.me/amirdecoder">
-  <img align="right"  src="https://img.shields.io/static/v1?label=Telegram&message=%E2%9D%A4&logo=telegram&color=blue"></a>
-  <br>
-   <a href="https://github.com/amirdecoder">
- <img align="right"  src="https://img.shields.io/static/v1?label=Whatsapp&message=%E2%9D%A4&logo=Whatsapp&color=green"></a>
  
  <br>
  <br>
@@ -26,10 +16,10 @@ ___
  ### Stay in touch
  ___
  > Click on the name of the social network you want to contact me 👇
--  [Telegram](http://t.me/amirdecoder)
--  [Instagram](http://instagram.com/amirdecoder)
--  [Whatsapp](http://wa.me/message/D3VOL2BRUSPIE1)
--  [Discord](http://discord.gg/T4JytppwT8)
+-  [Telegram](http://t.me/amirdecoder) <a href="https://t.me/amirdecoder"><img align="center"  src="https://img.shields.io/static/v1?label=Telegram&message=%E2%9D%A4&logo=telegram&color=blue"></a>
+-  [Instagram](http://instagram.com/amirdecoder) <a href="https://instagram.com/amirdecoder"><img align="center" src="https://img.shields.io/static/v1?label=Instagram&message=%E2%9D%A4&logo=instagram&color=ff0077"></a>
+-  [Whatsapp](http://wa.me/message/D3VOL2BRUSPIE1) <a href="https://wa.me/message/D3VOL2BRUSPIE1"><img align="center" src="https://img.shields.io/static/v1?label=Whatsapp&message=%E2%9D%A4&logo=Whatsapp&color=green"></a>
+-  [Discord](http://discord.gg/T4JytppwT8) <a href="http://discord.gg/T4JytppwT8"><img align="center" src="https://img.shields.io/static/v1?label=Discord&message=%E2%9D%A4&logo=discord&color=blue"></a>
 
 ### Short explanation
 ___
