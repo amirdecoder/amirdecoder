@@ -9,9 +9,7 @@ ___
  <img align="center" width="1050" src="https://github-profile-trophy.vercel.app/?username=amirdecoder&margin-w=15"></a>
  
  <br>
- <br>
- <br>
- 
+
  ### Stay in touch
  ___
  > Click on the name of the social network you want to contact me 👇
