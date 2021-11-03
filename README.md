@@ -5,13 +5,13 @@ ___
 <br>
  <a href="https://github.com/amirdecoder">
  <img align="left"  src="https://img.shields.io/static/v1?label=amirdecoder&message=%E2%9D%A4&logo=GitHub&color=ff0000"></a>
- 
+ </br>
  <a href="https://github.com/amirdecoder">
  <img align="right"  src="https://img.shields.io/static/v1?label=Instagram&message=%E2%9D%A4&logo=instagram&color=ff0077"></a>
- 
+ <br>
    <a href="https://t.me/amirdecoder">
   <img align="right"  src="https://img.shields.io/static/v1?label=Telegram&message=%E2%9D%A4&logo=telegram&color=blue"></a>
-  
+  <br>
    <a href="https://github.com/amirdecoder">
  <img align="right"  src="https://img.shields.io/static/v1?label=Whatsapp&message=%E2%9D%A4&logo=Whatsapp&color=green"></a>
  
