@@ -171,7 +171,13 @@ ___
 ### Programming for me is like a restaurant where I cook myself and I enjoy the taste of food
 ___
 
+ <div align="center">
+  <a href="https://github.com/amirdecoder">
+<img align="center" width="100" src="https://img.icons8.com/clouds/500/000000/inspect-code.png"></a>
 <a href="https://github.com/amirdecoder">
-<img align="center" width="500" src="https://s21.picofile.com/file/8443133634/programming_banner.png"></a>
+<img align="center" width="100" src="https://img.icons8.com/clouds/500/000000/hamburger.png"></a>
+  <a href="https://github.com/amirdecoder">
+<img align="center" width="100" src="https://img.icons8.com/clouds/500/000000/source-code.png"></a>
+  <div>
 
 </html>
