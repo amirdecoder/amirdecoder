@@ -14,7 +14,7 @@ ___
 <img align="center" width="135" src="https://img.shields.io/static/v1?label=amirdecoder&message=%E2%9D%A4&logo=GitHub&color=ff0000"></a>
  <br>
  <a href="https://github.com/amirdecoder">
-<img align="center" width="180" src="https://s21.picofile.com/file/8443594734/icons8_github_500_1_.png"></a>
+<img align="center" width="200" src="https://s21.picofile.com/file/8443594734/icons8_github_500_1_.png"></a>
  
 </div>
 
@@ -63,7 +63,7 @@ ___
 <head>
 <br>
 <a href="https://github.com/amirdecoder/Amirhossein_arabahmadi">
-<img align="left" alt="amirhossein arabahmadi" width="140" src="https://s21.picofile.com/file/8443240850/Amirdecoder_O_profile.png"></a>
+<img align="left" alt="amirhossein arabahmadi" width="250" src="https://s20.picofile.com/file/8443594876/icons8_imcloud_500.png"></a>
 <h1>
 amirhossein arabahmadi
 </h1>
