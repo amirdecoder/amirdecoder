@@ -63,10 +63,8 @@ ___
 <head>
 <br>
 <a href="https://github.com/amirdecoder/Amirhossein_arabahmadi">
-<img align="left" alt="amirhossein arabahmadi" width="250" src="https://s21.picofile.com/file/8443594976/icons8_imcloud_500.png"></a>
- 
- <br>
- 
+<img align="left" alt="amirhossein arabahmadi" width="150" src="https://s21.picofile.com/file/8443594976/icons8_imcloud_500.png"></a>
+
 <h1>
 amirhossein arabahmadi
 </h1>
