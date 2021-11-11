@@ -41,10 +41,10 @@ ___
  
 <div align="center"> 
  
-<a href="https://t.me/amirdecoder"><img align="center" width="170"  src="https://img.shields.io/static/v1?label=Telegram&message=%E2%9D%A4&logo=telegram&color=blue"></a>
-<a href="https://instagram.com/amirdecoder"><img align="center" width="180" src="https://img.shields.io/static/v1?label=Instagram&message=%E2%9D%A4&logo=instagram&color=ff0077"></a>
-<a href="https://wa.me/message/D3VOL2BRUSPIE1"><img align="center" width="180" src="https://img.shields.io/static/v1?label=Whatsapp&message=%E2%9D%A4&logo=Whatsapp&color=green"></a>
-<a href="http://discord.gg/T4JytppwT8"><img align="center" width="155" src="https://img.shields.io/static/v1?label=Discord&message=%E2%9D%A4&logo=discord&color=blue"></a>
+<a href="https://t.me/amirdecoder"><img align="center" width="170"  src="https://s20.picofile.com/file/8443594642/icons8_telegram_app_500.png"></a>
+<a href="https://instagram.com/amirdecoder"><img align="center" width="180" src="https://s21.picofile.com/file/8443594650/icons8_instagram_500.png"></a>
+<a href="https://wa.me/message/D3VOL2BRUSPIE1"><img align="center" width="180" src="https://s20.picofile.com/file/8443594676/icons8_whatsapp_500.png"></a>
+<a href="http://discord.gg/T4JytppwT8"><img align="center" width="155" src="https://s21.picofile.com/file/8443594684/icons8_discord_500.png"></a>
  
 </div>
  <br>
