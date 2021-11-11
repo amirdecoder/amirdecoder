@@ -106,12 +106,15 @@ Here are some ideas to get you started:
 ___
  
  
+ <a href="https://t.me/amirdecoder"><img align="left" width="100"  src="https://s20.picofile.com/file/8443594642/icons8_telegram_app_500.png"></a>
+ <a href="https://t.me/amirdecoder"><img align="right" width="100"  src="https://s20.picofile.com/file/8443594642/icons8_telegram_app_500.png"></a>
+ 
 <div align="center"> 
 
 <a href="https://github.com/amirdecoder">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amirdecoder&show_icons=true&count_private=true&include_all_commits=true" /></a>
  
-</div> 
+</div>
 
 <div align="center"> 
  
