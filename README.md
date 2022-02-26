@@ -4,9 +4,16 @@
 ___
 
 <!DOCTYPE html>
+ 
 <html>
+ 
  <head>
+  
  </head>
+ 
+ 
+<header>
+ 
  
 <a href="https://github.com/amirdecoder">
 <img align="center" width="130" src="https://komarev.com/ghpvc/?username=amirdecoder&color=ff0000"></a>
@@ -25,6 +32,10 @@ ___
  <a href="https://github.com/amirdecoder">
  <img align="center" width="540" src="https://github-profile-trophy.vercel.app/?username=amirdecoder&column=3&margin-w=15&margin-h=15"></a>
  </div>
+ 
+ 
+ </header>
+ 
  
  <br>
 
@@ -60,7 +71,9 @@ ___
  
 ___
 
-<head>
+<main>
+ 
+ 
 <br>
 <a href="https://github.com/amirdecoder/Amirhossein_arabahmadi">
 <img align="left" alt="amirhossein arabahmadi" width="250" src="https://s21.picofile.com/file/8443632500/icons8_im2cloud_500.png"></a>
@@ -69,7 +82,6 @@ ___
 amirhossein arabahmadi
 </h1>
   <div align="center">
-</head>
 <p> Im programmer<br>
 In terms of technology limitations are meaningless to me<br>
 Programming for me is like a restaurant where I cook myself and I enjoy the taste of food<br>
@@ -80,22 +92,8 @@ And with all my being I want to be useful to the world<br>
  <br>
 </div>
  
-<!--
-**amirdecoder/amirdecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ </main>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
- 
 <div align="center"> 
  
 ### Github Stats
@@ -166,6 +164,8 @@ ___
  
 <br>
 
+<footer>
+ 
 ### Programming for me is like a restaurant where I cook myself and I enjoy the taste of food
 ___
 
@@ -177,5 +177,7 @@ ___
   <a href="https://github.com/amirdecoder">
 <img align="center" width="150" src="https://img.icons8.com/clouds/500/000000/hamburger.png"></a>
   <div>
+
+</footer>
 
 </html>
