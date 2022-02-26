@@ -1,12 +1,9 @@
 <!DOCTYPE html>
 <link rel="stylesheet" href="https://github.com/amirdecoder/amirdecoder/edit/main/style.css">
-<script  src="./script.js"></script>
 
 <html>
 
 <head>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
 
 </head>
 
