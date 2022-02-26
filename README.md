@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<link rel="stylesheet" href="./style.css">
+<link rel="stylesheet" href="https://github.com/amirdecoder/amirdecoder/edit/main/style.css">
 <script  src="./script.js"></script>
 
 <html>
