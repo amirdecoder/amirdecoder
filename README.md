@@ -170,16 +170,6 @@ ___
 <br>
 
 <footer>
- 
-### Programming for me is like a restaurant where I cook myself and I enjoy the taste of food
-___
-
- <div align="center">
-  <a href="https://github.com/amirdecoder">
-<img align="center" width="150" src="https://img.icons8.com/clouds/500/000000/inspect-code.png"></a>
-  <a href="https://github.com/amirdecoder">
-<img align="center" width="150" src="https://img.icons8.com/clouds/500/000000/hamburger.png"></a>
-  <div>
 
 </footer>
 
