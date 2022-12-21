@@ -129,7 +129,7 @@ ___
 <div align="center"> 
 
 <a href="https://github.com/amirdecoder">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirdecoder&" alt="omiragk" /></a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirdecoder&" alt="amirdecoder" /></a>
  
  
 </div> 
