@@ -32,7 +32,6 @@ ___
 
  <br>
  
- 
 <div align="center"> 
  <a href="https://github.com/amirdecoder">
  <img align="center" width="540" src="https://github-profile-trophy.vercel.app/?username=amirdecoder&column=3&margin-w=15&margin-h=15"></a>
@@ -163,7 +162,7 @@ ___
 <div align="center"> 
  
 <a href="https://github.com/amirdecoder">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirdecoder&layout=compact&hide=html" alt="mxschmitt" /></a>
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirdecoder&layout=compact&hide=html" alt="amirdecoder" /></a>
  
 </div> 
  
