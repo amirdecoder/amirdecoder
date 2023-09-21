@@ -133,20 +133,6 @@ ___
  
 <div align="center"> 
  
-### Most used Language The second style
-  
-<div align="center"> 
- 
-___
-
- 
-<div align="center"> 
- 
-<a href="https://github.com/amirdecoder">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirdecoder&layout=compact&hide=html" alt="amirdecoder" /></a>
- 
-</div> 
- 
 <br>
 
 <footer>
