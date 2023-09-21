@@ -117,25 +117,6 @@ ___
 
 <div align="center"> 
  
- ### Streak
- 
- 
-</div> 
- 
- ___
- 
- 
-<div align="center"> 
-
-<a href="https://github.com/amirdecoder">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirdecoder&" alt="amirdecoder" /></a>
- 
- 
-</div> 
-
- 
-<div align="center"> 
- 
 ### Most used Language
  
 </div> 
