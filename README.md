@@ -29,14 +29,6 @@ ___
 <img align="center" width="200" src="https://s21.picofile.com/file/8443594734/icons8_github_500_1_.png"></a>
  
 </div>
-
- <br>
- 
-<div align="center"> 
- <a href="https://github.com/amirdecoder">
- <img align="center" width="540" src="https://github-profile-trophy.vercel.app/?username=amirdecoder&column=3&margin-w=15&margin-h=15"></a>
- </div>
- 
  
  </header>
  
