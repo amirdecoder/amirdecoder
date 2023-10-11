@@ -24,7 +24,7 @@ ___
 <img align="center" width="135" src="https://img.shields.io/static/v1?label=amirdecoder&message=%E2%9D%A4&logo=GitHub&color=ff0000"></a>
  <br>
  <a href="https://github.com/amirdecoder">
-<img align="center" width="200" src="https://github.com/amirdecoder/File/blob/main/Social%20Net/icons8-github-480.png"></a>
+<img align="center" width="100" src="https://github.com/amirdecoder/File/blob/main/Social%20Net/icons8-github-480.png"></a>
  
 </div>
  
@@ -48,10 +48,10 @@ ___
  
 <div align="center"> 
  
-<a href="https://t.me/amirdecoder"><img align="center" width="180"  src="https://github.com/amirdecoder/File/blob/main/Social%20Net/icons8-telegram-app-480.png"></a>
-<a href="https://instagram.com/amirdecoder"><img align="center" width="180" src="https://github.com/amirdecoder/File/blob/main/Social%20Net/icons8-instagram-480.png"></a>
-<a href="https://wa.me/message/D3VOL2BRUSPIE1"><img align="center" width="180" src="https://github.com/amirdecoder/File/blob/main/Social%20Net/icons8-whatsapp-480.png"></a>
-<a href="http://discord.gg/T4JytppwT8"><img align="center" width="180" src="https://github.com/amirdecoder/File/blob/main/Social%20Net/icons8-discord-480.png"></a>
+<a href="https://t.me/amirdecoder"><img align="center" width="100"  src="https://github.com/amirdecoder/File/blob/main/Social%20Net/icons8-telegram-app-480.png"></a>
+<a href="https://instagram.com/amirdecoder"><img align="center" width="100" src="https://github.com/amirdecoder/File/blob/main/Social%20Net/icons8-instagram-480.png"></a>
+<a href="https://wa.me/message/D3VOL2BRUSPIE1"><img align="center" width="100" src="https://github.com/amirdecoder/File/blob/main/Social%20Net/icons8-whatsapp-480.png"></a>
+<a href="http://discord.gg/T4JytppwT8"><img align="center" width="100" src="https://github.com/amirdecoder/File/blob/main/Social%20Net/icons8-discord-480.png"></a>
  
 </div>
  <br>
