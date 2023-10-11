@@ -24,7 +24,7 @@ ___
 <img align="center" width="135" src="https://img.shields.io/static/v1?label=amirdecoder&message=%E2%9D%A4&logo=GitHub&color=ff0000"></a>
  <br>
  <a href="https://github.com/amirdecoder">
-<img align="center" width="100" src="https://github.com/amirdecoder/File/blob/main/Social%20Net/icons8-github-480.png"></a>
+<img align="center" width="120" src="https://github.com/amirdecoder/File/blob/main/Social%20Net/icons8-github-480.png"></a>
  
 </div>
  
