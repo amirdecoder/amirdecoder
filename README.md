@@ -88,24 +88,35 @@ And with all my being I want to be useful to the world<br>
  
  </main>
 
-<div align="center"> 
- 
-### Github Stats
- 
- 
-</div> 
- 
-___
- 
- 
-<div align="center"> 
+<br>
+<br>
 
-<a href="https://github.com/amirdecoder">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirdecoder&show_icons=true&count_private=true&include_all_commits=true" /></a>
+  ### :feelsgood: : Donate :
  
+ <details><summary>CLICK ME</summary>
+<p>
+ 
+ <div align="center">
+  
+#### USDT :
+
+```ruby
+   TBF2i8ENeR7491Zd8ZkcyLzEcSzG5w73Mz
+```
+ 
+ #### BTC :
+
+```ruby
+   1MmBWgLaGyiXfVwPURKULMeaDPNagdZ8nc
+```
 </div>
+</p>
+</details>
 
-<div align="center"> 
+<br>
+<br>
+
+ <div align="center">
  
 ### Most used Language
  
