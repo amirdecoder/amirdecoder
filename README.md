@@ -102,7 +102,7 @@ And with all my being I want to be useful to the world<br>
 <br>
 <br>
 
-  ### :feelsgood: : Donate :
+  ### :feelsgood: Donate
  
  <details><summary>CLICK ME</summary>
 <p>
