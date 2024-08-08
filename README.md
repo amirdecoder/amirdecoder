@@ -106,9 +106,6 @@ And with all my being I want to be useful to the world<br>
 
   ### :feelsgood: Donate
  
- <details><summary>CLICK ME</summary>
-<p>
- 
  <div align="center">
   
 #### USDT :
@@ -122,9 +119,6 @@ And with all my being I want to be useful to the world<br>
 ```ruby
    1MmBWgLaGyiXfVwPURKULMeaDPNagdZ8nc
 ```
-</div>
-</p>
-</details>
 
 <br>
 <br>
