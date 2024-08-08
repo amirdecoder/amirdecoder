@@ -108,16 +108,16 @@ And with all my being I want to be useful to the world<br>
  
  <div align="center">
   
-#### USDT :
+#### USDT - TRC20 :
 
 ```ruby
-   TBF2i8ENeR7491Zd8ZkcyLzEcSzG5w73Mz
+   TMUtqiWiuDnNsK22Zt6VpaZQYqPyW2dGb5
 ```
  
  #### BTC :
 
 ```ruby
-   1MmBWgLaGyiXfVwPURKULMeaDPNagdZ8nc
+   0x45dD4cdA92dd3653cF96Bfbce1074980402823EE
 ```
 
 <br>
